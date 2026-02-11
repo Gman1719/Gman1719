@@ -1,50 +1,83 @@
-<h1 align="center">Hi 👋, I'm Gman1719</h1>
-<h3 align="center">🚀 Full Stack Developer | Building Modern Web Applications</h3>
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/Gman1719/Gman1719/main/banner1.png" 
+       alt="Gman1719 Banner" 
+       style="width:100%; height:170px; object-fit:cover;" />
+</p> -->
 
+# 👋 Hi, I'm Getiye  
+**Full Stack Developer | Building Modern Web Applications**
+
+---
+
+## About Me
+
+I am Getiye Demis a Computer Science Student at Debre Birhan University in Ethiopia a passionate **Full Stack Developer** .  
+I enjoy building **modern, scalable web applications** (Frontend + Backend) and improving my **backend & system design skills**.  
+
+I focus on writing **clean, efficient, maintainable code** and delivering **user-friendly solutions**.  
+I’m always eager to **learn, collaborate**, and grow with like-minded developers.
+
+---
+
+## Current Activities
+
+- Building full-stack web applications  
+- Learning backend development with Node.js  
+- Improving frontend skills with React 
 
 
 ---
 
-## 👨‍💻 About Me
+## Languages
 
-- 💻 Passionate Full Stack Developer  
-- 🌍 Based in Ethiopia  
-- 🔥 I love building complete web applications (Frontend + Backend)  
-- 📚 Currently improving advanced backend & system design skills  
-- 🎯 Goal: Become a Professional Software Engineer  
-
----
-
-## 🚀 Tech Stack
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,nodejs,php" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🛠 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=8892be)
 
 ---
 
-## 📌 Featured Projects
+## Frontend
 
-🔹 Employee Payroll Management System (Java + MySQL)  
-🔹 Python Music Player  
-🔹 Portfolio Website  
-🔹 Full Stack Web Applications  
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+
+---
+
+## Backend
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+
+---
+
+## Databases
+
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+
+---
+
+## Deployment & Version Control
+
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
+
+---
+
+## 🛠 Projects
+
+- [Python Music Player](https://github.com/Gman1719/Music-Player-) – Desktop music player built with Python  
+- [Portfolio Website](https://github.com/Gman1719/Portifolio) – Personal portfolio website  
+- [Employee Payroll System](https://github.com/Gman1719/Java-project) – Full-stack project using Java and MySQL
 
 ---
 
@@ -56,12 +89,15 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gman1719&theme=tokyonight" alt="GitHub Stats Overview" />
 
+
 ---
 
-## 🌐 Connect With Me
+## 🔗 Connect With Me
 
+- 📍 Location: Debre Birhan Ethiopia  
+- 💼 LinkedIn: [Gman1719](https://www.linkedin.com/in/your-linkedin-link)  
 - 📧 Email: getiyedemis17@gmail.com  
- 
+
 
 ---
 
