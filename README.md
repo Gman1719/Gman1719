@@ -4,10 +4,10 @@
        style="width:100%; height:170px; object-fit:cover;" />
 </p> -->
 
-# 👋 Hi, I'm Getiye  
-**Full Stack Developer | Building Modern Web Applications**
-
----
+<!-- TYPING ANIMATION -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Getiye+Demis;Full+Stack+Developer;React+%26+Node.js+Specialist;CS+Student+%40+Debre+Birhan+Uni" alt="Typing Animation" />
+</h1>
 
 ## About Me
 
@@ -89,6 +89,13 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gman1719&theme=tokyonight" alt="GitHub Stats Overview" />
 
+---
+
+## 📈 **Activity Graph**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gman1719&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</div>
 
 ---
 
