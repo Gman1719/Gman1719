@@ -1,9 +1,30 @@
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/Gman1719/Gman1719/main/banner1.png" 
-       alt="Gman1719 Banner" 
-       style="width:100%; height:170px; object-fit:cover;" />
-</p> -->
+<!-- BANNER SECTION - Optimized for 2048x664 aspect ratio -->
+<p align="center">
+  <picture>
+    <!-- For mobile devices -->
+    <source media="(max-width: 768px)" 
+            srcset="https://raw.githubusercontent.com/Gman1719/Gman1719/main/banner_new.png"
+            width="100%" />
+    <!-- For desktop -->
+    <source media="(min-width: 769px)" 
+            srcset="https://raw.githubusercontent.com/Gman1719/Gman1719/main/banner_new.png"
+            width="90%" />
+    <!-- Fallback -->
+    <img src="https://raw.githubusercontent.com/Gman1719/Gman1719/main/banner_new.png" 
+         alt="Getiye Demis - Full Stack Developer Banner" 
+         width="90%"
+         style="max-width: 1200px; height: auto; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); border: 2px solid #3B82F6; display: block; margin: 0 auto;" />
+  </picture>
+</p>
 
+<!-- Alternative: Fixed height container with cover -->
+<!-- <p align="center">
+  <div style="width: 100%; height: auto; max-width: 1200px; margin: 0 auto; border-radius: 20px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.3); border: 2px solid #3B82F6;">
+    <img src="https://raw.githubusercontent.com/Gman1719/Gman1719/main/banner.png" 
+         alt="Getiye Demis - Full Stack Developer Banner" 
+         style="width: 100%; height: auto; display: block; object-fit: contain; background-color: #0d1117;" />
+  </div>
+</p> -->
 <!-- TYPING ANIMATION -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Getiye+Demis;Full+Stack+Developer;React+%26+Node.js+Specialist;CS+Student+%40+Debre+Birhan+Uni" alt="Typing Animation" />
