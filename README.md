@@ -95,22 +95,22 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 A full-featured social platform with real-time interactions built using the MERN stack. Includes user authentication, image uploads, like/unlike posts, comment system, follow/unfollow users, real-time chat with Socket.io, dark/light mode, responsive design, and user suggestions.
 
 <details>
-<summary><b>🔧 View Features</b></summary>
+<summary><b>View Features</b></summary>
 <br>
 <ul>
-  <li>🔐 JWT Authentication - Secure user login & registration</li>
-  <li>📸 Image Uploads - Share posts with images</li>
-  <li>❤️ Like/Unlike Posts - Engage with content</li>
-  <li>💬 Comment System - Interactive discussions</li>
-  <li>👥 Follow/Unfollow Users - Build your network</li>
-  <li>💬 Real-time Chat - Socket.io powered messaging</li>
-  <li>🌓 Dark/Light Mode - Customizable UI</li>
-  <li>📱 Responsive Design - Works on all devices</li>
-  <li>🤝 User Suggestions - Discover new people</li>
+  <li>JWT Authentication - Secure user login & registration</li>
+  <li>Image Uploads - Share posts with images</li>
+  <li>Like/Unlike Posts - Engage with content</li>
+  <li>Comment System - Interactive discussions</li>
+  <li>Follow/Unfollow Users - Build your network</li>
+  <li>Real-time Chat - Socket.io powered messaging</li>
+  <li>Dark/Light Mode - Customizable UI</li>
+  <li>Responsive Design - Works on all devices</li>
+  <li>User Suggestions - Discover new people</li>
 </ul>
 </details>
 
-<a href="https://github.com/Gman1719/social-media-app">🌐 View on GitHub</a>
+<a href="https://github.com/Gman1719/social-media-app">View on GitHub</a>
 
 ---
 
@@ -118,18 +118,18 @@ A full-featured social platform with real-time interactions built using the MERN
 A clean, responsive task management app built with React. Features include CRUD operations (create, read, update, delete tasks), task completion toggle, local storage persistence for data saving, responsive UI that works on all devices, and a clean intuitive interface.
 
 <details>
-<summary><b>🔧 View Features</b></summary>
+<summary><b>View Features</b></summary>
 <br>
 <ul>
-  <li>📝 CRUD Operations - Create, read, update, delete tasks</li>
-  <li>✅ Task Completion - Mark tasks as complete/incomplete</li>
-  <li>💾 Local Storage - Persists data in browser</li>
-  <li>📱 Responsive UI - Works on mobile & desktop</li>
-  <li>🎯 Clean Interface - Simple and intuitive design</li>
+  <li>CRUD Operations - Create, read, update, delete tasks</li>
+  <li>Task Completion - Mark tasks as complete/incomplete</li>
+  <li>Local Storage - Persists data in browser</li>
+  <li>Responsive UI - Works on mobile & desktop</li>
+  <li>Clean Interface - Simple and intuitive design</li>
 </ul>
 </details>
 
-<a href="https://github.com/Gman1719/React-to-do-list">🌐 View on GitHub</a>
+<a href="https://github.com/Gman1719/React-to-do-list">View on GitHub</a>
 
 ---
 
@@ -137,18 +137,18 @@ A clean, responsive task management app built with React. Features include CRUD 
 A desktop music player with a sleek interface built with Python and Tkinter. Includes play/pause/stop controls, playlist creation and management, next/previous track navigation, volume control slider, and a user-friendly simple GUI design.
 
 <details>
-<summary><b>🔧 View Features</b></summary>
+<summary><b>View Features</b></summary>
 <br>
 <ul>
-  <li>🎵 Play/Pause/Stop - Basic music controls</li>
-  <li>📂 Playlist Management - Create and manage playlists</li>
-  <li>⏭️ Next/Previous - Skip between tracks</li>
-  <li>🔊 Volume Control - Adjust playback volume</li>
-  <li>🎨 Simple GUI - User-friendly interface</li>
+  <li>Play/Pause/Stop - Basic music controls</li>
+  <li>Playlist Management - Create and manage playlists</li>
+  <li>Next/Previous - Skip between tracks</li>
+  <li>Volume Control - Adjust playback volume</li>
+  <li>Simple GUI - User-friendly interface</li>
 </ul>
 </details>
 
-<a href="https://github.com/Gman1719/Music-Player-">🌐 View on GitHub</a>
+<a href="https://github.com/Gman1719/Music-Player-">View on GitHub</a>
 
 ---
 
@@ -156,18 +156,18 @@ A desktop music player with a sleek interface built with Python and Tkinter. Inc
 A full-stack payroll management system built with Java and MySQL. Features include employee management (add, update, delete employees), automated payroll calculation with salary computation, report generation for payroll records, secure database integration with MySQL, and an easy-to-use desktop GUI interface.
 
 <details>
-<summary><b>🔧 View Features</b></summary>
+<summary><b>View Features</b></summary>
 <br>
 <ul>
-  <li>👥 Employee Management - Add, update, delete employees</li>
-  <li>💰 Payroll Calculation - Automated salary computation</li>
-  <li>📊 Reports - Generate payroll reports</li>
-  <li>🔒 Secure Database - MySQL integration</li>
-  <li>🖥️ Desktop GUI - Easy-to-use interface</li>
+  <li>Employee Management - Add, update, delete employees</li>
+  <li>Payroll Calculation - Automated salary computation</li>
+  <li>Reports - Generate payroll reports</li>
+  <li>Secure Database - MySQL integration</li>
+  <li>Desktop GUI - Easy-to-use interface</li>
 </ul>
 </details>
 
-<a href="https://github.com/Gman1719/Java-project">🌐 View on GitHub</a>
+<a href="https://github.com/Gman1719/Java-project">View on GitHub</a>
 
 ---
 
@@ -175,18 +175,18 @@ A full-stack payroll management system built with Java and MySQL. Features inclu
 A personal portfolio website showcasing my work and skills. Features include fully responsive design that works on all devices, modern clean professional design, project showcase section to display best work, contact form for easy communication, and optimized fast loading performance.
 
 <details>
-<summary><b>🔧 View Features</b></summary>
+<summary><b>View Features</b></summary>
 <br>
 <ul>
-  <li>📱 Fully Responsive - Works on all devices</li>
-  <li>🎨 Modern Design - Clean and professional</li>
-  <li>📂 Project Showcase - Display my best work</li>
-  <li>📞 Contact Form - Easy way to reach me</li>
-  <li>⚡ Fast Loading - Optimized performance</li>
+  <li>Fully Responsive - Works on all devices</li>
+  <li>Modern Design - Clean and professional</li>
+  <li>Project Showcase - Display my best work</li>
+  <li>Contact Form - Easy way to reach me</li>
+  <li>Fast Loading - Optimized performance</li>
 </ul>
 </details>
 
-<a href="https://github.com/Gman1719/Portifolio">🌐 View on GitHub</a>
+<a href="https://github.com/Gman1719/Portifolio">View on GitHub</a>
 
 ---
 
@@ -194,18 +194,18 @@ A personal portfolio website showcasing my work and skills. Features include ful
 A web application using HTML, CSS, JavaScript, and MySQL for managing customer orders and daily operations. Includes order management, menu display, customer billing, table management, and sales reporting features.
 
 <details>
-<summary><b>🔧 View Features</b></summary>
+<summary><b>View Features</b></summary>
 <br>
 <ul>
-  <li>📋 Order Management - Track customer orders</li>
-  <li>🍽️ Menu Display - Show available items with prices</li>
-  <li>🧾 Customer Billing - Generate bills automatically</li>
-  <li>🪑 Table Management - Assign and track tables</li>
-  <li>📊 Sales Reports - View daily/monthly sales data</li>
+  <li>Order Management - Track customer orders</li>
+  <li>Menu Display - Show available items with prices</li>
+  <li>Customer Billing - Generate bills automatically</li>
+  <li>Table Management - Assign and track tables</li>
+  <li>Sales Reports - View daily/monthly sales data</li>
 </ul>
 </details>
 
-<a href="https://github.com/Gman1719/cafe-management">🌐 View on GitHub</a>
+<a href="https://github.com/Gman1719/cafe-management">View on GitHub</a>
 
 ---
 
