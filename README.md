@@ -91,146 +91,148 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 ## 🚀 Featured Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
-
-<!-- Social Media App Card -->
-<div align="center" style="flex: 1 1 300px; max-width: 350px; border: 1px solid #3B82F6; border-radius: 15px; padding: 20px; margin: 10px; background: #0D1117; box-shadow: 0 4px 15px rgba(59, 130, 246, 0.2);">
-  <h3>🌟 Social Media App</h3>
-  <p><i>Full-featured social platform with real-time interactions</i></p>
-  <div style="margin: 15px 0;">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-  </div>
-  
-  <details>
-    <summary><b>🔧 Click to View Features</b></summary>
-    <br>
-    <ul align="left">
-      <li>🔐 JWT Authentication - Secure user login & registration</li>
-      <li>📸 Image Uploads - Share posts with images</li>
-      <li>❤️ Like/Unlike Posts - Engage with content</li>
-      <li>💬 Comment System - Interactive discussions</li>
-      <li>👥 Follow/Unfollow Users - Build your network</li>
-      <li>💬 Real-time Chat - Socket.io powered messaging</li>
-      <li>🌓 Dark/Light Mode - Customizable UI</li>
-      <li>📱 Responsive Design - Works on all devices</li>
-      <li>🤝 User Suggestions - Discover new people</li>
-    </ul>
-  </details>
-  <br>
-  <a href="https://github.com/Gman1719/social-media-app">
-    <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<!-- React To-Do List Card -->
-<div align="center" style="flex: 1 1 300px; max-width: 350px; border: 1px solid #3B82F6; border-radius: 15px; padding: 20px; margin: 10px; background: #0D1117; box-shadow: 0 4px 15px rgba(59, 130, 246, 0.2);">
-  <h3>✅ React To-Do List</h3>
-  <p><i>Clean, responsive task management app</i></p>
-  <div style="margin: 15px 0;">
-    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  </div>
-  
-  <details>
-    <summary><b>🔧 Click to View Features</b></summary>
-    <br>
-    <ul align="left">
-      <li>📝 CRUD Operations - Create, read, update, delete tasks</li>
-      <li>✅ Task Completion - Mark tasks as complete/incomplete</li>
-      <li>💾 Local Storage - Persists data in browser</li>
-      <li>📱 Responsive UI - Works on mobile & desktop</li>
-      <li>🎯 Clean Interface - Simple and intuitive design</li>
-    </ul>
-  </details>
-  <br>
-  <a href="https://github.com/Gman1719/React-to-do-list">
-    <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<!-- Python Music Player Card -->
-<div align="center" style="flex: 1 1 300px; max-width: 350px; border: 1px solid #3B82F6; border-radius: 15px; padding: 20px; margin: 10px; background: #0D1117; box-shadow: 0 4px 15px rgba(59, 130, 246, 0.2);">
-  <h3>🎵 Python Music Player</h3>
-  <p><i>Desktop music player with sleek interface</i></p>
-  <div style="margin: 15px 0;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tkinter-FFD43B?style=flat-square&logo=python&logoColor=blue" />
-  </div>
-  
-  <details>
-    <summary><b>🔧 Click to View Features</b></summary>
-    <br>
-    <ul align="left">
-      <li>🎵 Play/Pause/Stop - Basic music controls</li>
-      <li>📂 Playlist Management - Create and manage playlists</li>
-      <li>⏭️ Next/Previous - Skip between tracks</li>
-      <li>🔊 Volume Control - Adjust playback volume</li>
-      <li>🎨 Simple GUI - User-friendly interface</li>
-    </ul>
-  </details>
-  <br>
-  <a href="https://github.com/Gman1719/Music-Player-">
-    <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<!-- Employee Payroll System Card -->
-<div align="center" style="flex: 1 1 300px; max-width: 350px; border: 1px solid #3B82F6; border-radius: 15px; padding: 20px; margin: 10px; background: #0D1117; box-shadow: 0 4px 15px rgba(59, 130, 246, 0.2);">
-  <h3>💼 Employee Payroll System</h3>
-  <p><i>Full-stack payroll management system</i></p>
-  <div style="margin: 15px 0;">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  </div>
-  
-  <details>
-    <summary><b>🔧 Click to View Features</b></summary>
-    <br>
-    <ul align="left">
-      <li>👥 Employee Management - Add, update, delete employees</li>
-      <li>💰 Payroll Calculation - Automated salary computation</li>
-      <li>📊 Reports - Generate payroll reports</li>
-      <li>🔒 Secure Database - MySQL integration</li>
-      <li>🖥️ Desktop GUI - Easy-to-use interface</li>
-    </ul>
-  </details>
-  <br>
-  <a href="https://github.com/Gman1719/Java-project">
-    <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<!-- Portfolio Website Card -->
-<div align="center" style="flex: 1 1 300px; max-width: 350px; border: 1px solid #3B82F6; border-radius: 15px; padding: 20px; margin: 10px; background: #0D1117; box-shadow: 0 4px 15px rgba(59, 130, 246, 0.2);">
-  <h3>🌐 Portfolio Website</h3>
-  <p><i>Personal portfolio showcasing my work</i></p>
-  <div style="margin: 15px 0;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  </div>
-  
-  <details>
-    <summary><b>🔧 Click to View Features</b></summary>
-    <br>
-    <ul align="left">
-      <li>📱 Fully Responsive - Works on all devices</li>
-      <li>🎨 Modern Design - Clean and professional</li>
-      <li>📂 Project Showcase - Display my best work</li>
-      <li>📞 Contact Form - Easy way to reach me</li>
-      <li>⚡ Fast Loading - Optimized performance</li>
-    </ul>
-  </details>
-  <br>
-  <a href="https://github.com/Gman1719/Portifolio">
-    <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🌟 Social Media App</h3>
+        <p align="center"><i>Full-featured social platform with real-time interactions</i></p>
+        <br />
+        <p align="center">
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+        </p>
+        <details>
+          <summary><b>🔧 Click to View Features</b></summary>
+          <ul>
+            <li>🔐 JWT Authentication - Secure user login & registration</li>
+            <li>📸 Image Uploads - Share posts with images</li>
+            <li>❤️ Like/Unlike Posts - Engage with content</li>
+            <li>💬 Comment System - Interactive discussions</li>
+            <li>👥 Follow/Unfollow Users - Build your network</li>
+            <li>💬 Real-time Chat - Socket.io powered messaging</li>
+            <li>🌓 Dark/Light Mode - Customizable UI</li>
+            <li>📱 Responsive Design - Works on all devices</li>
+            <li>🤝 User Suggestions - Discover new people</li>
+          </ul>
+        </details>
+        <br />
+        <p align="center">
+          <a href="https://github.com/Gman1719/social-media-app">
+            <img src="https://img.shields.io/badge/VIEW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">✅ React To-Do List</h3>
+        <p align="center"><i>Clean, responsive task management app</i></p>
+        <br />
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        </p>
+        <details>
+          <summary><b>🔧 Click to View Features</b></summary>
+          <ul>
+            <li>📝 CRUD Operations - Create, read, update, delete tasks</li>
+            <li>✅ Task Completion - Mark tasks as complete/incomplete</li>
+            <li>💾 Local Storage - Persists data in browser</li>
+            <li>📱 Responsive UI - Works on mobile & desktop</li>
+            <li>🎯 Clean Interface - Simple and intuitive design</li>
+          </ul>
+        </details>
+        <br />
+        <p align="center">
+          <a href="https://github.com/Gman1719/React-to-do-list">
+            <img src="https://img.shields.io/badge/VIEW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🎵 Python Music Player</h3>
+        <p align="center"><i>Desktop music player with sleek interface</i></p>
+        <br />
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+        </p>
+        <details>
+          <summary><b>🔧 Click to View Features</b></summary>
+          <ul>
+            <li>🎵 Play/Pause/Stop - Basic music controls</li>
+            <li>📂 Playlist Management - Create and manage playlists</li>
+            <li>⏭️ Next/Previous - Skip between tracks</li>
+            <li>🔊 Volume Control - Adjust playback volume</li>
+            <li>🎨 Simple GUI - User-friendly interface</li>
+          </ul>
+        </details>
+        <br />
+        <p align="center">
+          <a href="https://github.com/Gman1719/Music-Player-">
+            <img src="https://img.shields.io/badge/VIEW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">💼 Employee Payroll System</h3>
+        <p align="center"><i>Full-stack payroll management system</i></p>
+        <br />
+        <p align="center">
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        </p>
+        <details>
+          <summary><b>🔧 Click to View Features</b></summary>
+          <ul>
+            <li>👥 Employee Management - Add, update, delete employees</li>
+            <li>💰 Payroll Calculation - Automated salary computation</li>
+            <li>📊 Reports - Generate payroll reports</li>
+            <li>🔒 Secure Database - MySQL integration</li>
+            <li>🖥️ Desktop GUI - Easy-to-use interface</li>
+          </ul>
+        </details>
+        <br />
+        <p align="center">
+          <a href="https://github.com/Gman1719/Java-project">
+            <img src="https://img.shields.io/badge/VIEW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top" colspan="2">
+        <h3 align="center">🌐 Portfolio Website</h3>
+        <p align="center"><i>Personal portfolio showcasing my work</i></p>
+        <br />
+        <p align="center">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        </p>
+        <details>
+          <summary><b>🔧 Click to View Features</b></summary>
+          <ul>
+            <li>📱 Fully Responsive - Works on all devices</li>
+            <li>🎨 Modern Design - Clean and professional</li>
+            <li>📂 Project Showcase - Display my best work</li>
+            <li>📞 Contact Form - Easy way to reach me</li>
+            <li>⚡ Fast Loading - Optimized performance</li>
+          </ul>
+        </details>
+        <br />
+        <p align="center">
+          <a href="https://github.com/Gman1719/Portifolio">
+            <img src="https://img.shields.io/badge/VIEW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 ---
 
