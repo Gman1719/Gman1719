@@ -75,8 +75,10 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 ## Databases
 
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=Microsoft-SQL-Server&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle&logoColor=white)
 
 ---
 
