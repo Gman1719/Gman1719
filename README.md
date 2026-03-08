@@ -25,6 +25,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Getiye+Demis;Full+Stack+Developer;React+%26+Node.js+Specialist;CS+Student+%40+Debre+Birhan+Uni" alt="Typing Animation" />
 </h1>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Gman1719&color=3B82F6&style=flat-square)
 ## About Me
 
 I am Getiye Demis a Computer Science Student at Debre Birhan University in Ethiopia a passionate **Full Stack Developer** .  
