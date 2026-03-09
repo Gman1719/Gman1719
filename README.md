@@ -189,7 +189,7 @@ A personal portfolio website showcasing my work and skills. Features include ful
 </ul>
 </details>
 
-<a href="https://github.com/Gman1719/Portifolio">View on GitHub</a>
+<a href="https://myportifolio-gman1719s-projects.vercel.app/">View on Vercel</a> | <a href="https://github.com/Gman1719/Portifolio">View on GitHub</a>
 
 ---
 
