@@ -232,16 +232,14 @@ A web application using HTML, CSS, JavaScript, and MySQL for managing customer o
 
 ## 🔗 Connect With Me
 
-- 📍 Location: Debre Birhan Ethiopia  
-- 💼 LinkedIn: [Gman1719](https://www.linkedin.com/in/your-linkedin-link)  
-- 📧 Email: getiyedemis17@gmail.com
-- [![Telegram](https://img.shields.io/badge/Telegram-Gman1719-26A5E4?logo=Telegram&logoColor=white)](https://t.me/Gman1719)
-- [![Instagram](https://img.shields.io/badge/Instagram-@getiyedemis17-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/getiyedemis17/)
-- [![TikTok](https://img.shields.io/badge/TikTok-@gman1719-000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@gman1719)
-- [![GitHub](https://img.shields.io/badge/GitHub-Gman1719-000?logo=github&logoColor=white)](https://github.com/Gman1719) 
-
-
----
+📍 **Location:** Debre Birhan, Ethiopia  
+📧 **Email:** [getiyedemis17@gmail.com](mailto:getiyedemis17@gmail.com)  
+💼 **LinkedIn:** [Gman1719](https://www.linkedin.com/in/your-linkedin-link)  
+💬 **Telegram:** [@Gman1719](https://t.me/Gman1719)  
+📸 **Instagram:** [@getiyedemis17](https://www.instagram.com/getiyedemis17/)  
+🎵 **TikTok:** [@gman1719](https://www.tiktok.com/@gman1719)  
+💻 **GitHub:** [Gman1719](https://github.com/Gman1719)  
+📘 **Facebook:** [getiye.demis](https://web.facebook.com/getiye.demis)
 
 <p align="center">
   ⭐ "Code. Build. Improve. Repeat."
